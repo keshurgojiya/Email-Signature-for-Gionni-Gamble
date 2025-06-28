@@ -1,4 +1,4 @@
-# ✉️ Email Signature for Bryan Chung
+# ✉️ Email Signature for Gionni Gamble
 
 🔗 **[Live Preview](https://keshurgojiya.github.io/Email-Signature-for-Gionni-Gamble/)**
 
